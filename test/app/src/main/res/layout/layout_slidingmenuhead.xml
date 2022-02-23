@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_176"
+    android:background="@color/green_color"
+    android:gravity="bottom"
+    android:padding="@dimen/dp_20"
+    android:orientation="vertical">
+    <com.example.test.SquircleImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/a"/>
+    <TextView
+        android:id="@+id/tv_nickname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_9"
+        android:layout_marginTop="@dimen/dp_6"
+        android:fontFamily="@font/segoe_ui_bold"
+        android:textSize="@dimen/sp_25"
+        android:text="fred"/>
+    <TextView
+        android:id="@+id/tv_whatis_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_6"
+        android:fontFamily="@font/segoe_ui_bold"
+        android:textSize="@dimen/sp_20"
+        android:text="stay hungry saty foolish"/>
+
+</LinearLayout>

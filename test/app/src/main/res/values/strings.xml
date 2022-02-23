@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">声浪</string>
+    <string name="app_id">36eef6c42f0a42528ae490d33f7bd300</string>
+    <string name="rtm_app_id">2656f7a8d8504afa99e3f318280cd346</string>
+    <string name="temp_token">00636eef6c42f0a42528ae490d33f7bd300IADTTa+NY7u+fNuTNRzgqt4p4KN5Nj5lQ25V+4GZ8HIOC7NhyzcAAAAAIgALReZ8GCWqYAQAAQCo4ahgAgCo4ahgAwCo4ahgBACo4ahg</string>
+
+    <string name="role_changed">您已成为听众</string>
+    <string name="raisedHandsTip">🖐️ 您已举手，主持人将知道您想上台发言</string>
+    <string name="host_leave">👋 主持人已离开频道</string>
+    <string name="input_name">请在下方输入您的昵称，最长8位 😊</string>
+    <string name="nickname">昵称</string>
+    <string name="password">密码</string>
+    <string name="login">登录 →</string>
+    <string name="welcome">🎉 欢迎回来</string>
+    <string name="accept">接受邀请 🎉 </string>
+    <string name="refuse">要再想想</string>
+    <string name="nobody_handup">暂时没人举手</string>
+    <string name="hands_up_list">举手列表</string>
+    <string name="hoster_invited">主持人邀请您上台发言</string>
+    <string name="ok">好的</string>
+    <string name="later">再想想?</string>
+    <string name="audience">听众</string>
+    <string name="leave_quietly">✌️ 悄悄离开</string>
+    <string name="set_as_listener">设置为听众</string>
+    <string name="close_other_mic">关闭Ta的麦克风</string>
+    <string name="hang_up">下麦</string>
+    <string name="cancel">取消</string>
+    <string name="leave">离开</string>
+    <string name="leave_tip">离开后所有人都将退出此房间</string>
+    <string name="public_channel">创建一个公开房间</string>
+    <string name="privice_channel">创建一个加密房间</string>
+    <string name="add_topic">添加主题</string>
+    <string name="eg">比如，比特币能否再创新高？</string>
+    <string name="setting">设置</string>
+    <string name="add_a_topic">+ 添加主题</string>
+    <string name="has_invited">已邀请</string>
+    <string name="invite_person">邀请上台</string>
+    <string name="refresh_failed">刷新失败</string>
+    <string name="loadmore_failed">加载失败</string>
+    <string name="join_failed">加入失败</string>
+</resources>
